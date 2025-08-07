@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1754523120482
+  lastteleport: 1754527997132
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Tmarsi219
 lastlocation:
   world: 29509a3a-939f-4857-b20a-2edd974cc6a9
   world-name: world
-  x: -1234.1989622685633
-  y: 123.6076178053869
-  z: 329.2168761169151
-  yaw: 175.05604553222656
-  pitch: 2.999131441116333
+  x: 1372.5
+  y: 68.0
+  z: -5761.5
+  yaw: 357.6969909667969
+  pitch: -2.2322325706481934
 logoutlocation:
   world: 29509a3a-939f-4857-b20a-2edd974cc6a9
   world-name: world
