@@ -4405,7 +4405,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_taiga_hills": "2025-08-07 01:00:15 +0000"
+      "minecraft:snowy_taiga": "2025-08-07 01:02:48 +0000",
+      "minecraft:snowy_taiga_hills": "2025-08-07 01:00:15 +0000",
+      "minecraft:snowy_beach": "2025-08-07 01:03:01 +0000"
     },
     "done": false
   },
@@ -6203,12 +6205,6 @@
     },
     "done": true
   },
-  "betteranimalsplus:bad_fox": {
-    "criteria": {
-      "no_bam": "2025-08-07 01:00:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-07 01:00:15 +0000"
@@ -6226,6 +6222,12 @@
       "has_the_recipe": "2025-08-07 01:00:15 +0000"
     },
     "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2025-08-07 01:00:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
